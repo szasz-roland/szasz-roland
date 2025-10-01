@@ -1,7 +1,7 @@
 # 💫 About Me:
-📖 Systems & Applications Support Technician | 🎓 Computer Science Student @ ELTE
-💻 Passionate about Linux, Bash scripting, and automation
-🔭 Currently exploring: Python, DevOps,  .NET, Software Development and CI/CD
+📖 Systems & Applications Support Technician | 🎓 Computer Science Student @ ELTE <br>
+💻 Passionate about Linux, Bash scripting, and automation <br>
+🔭 Currently exploring: Python, DevOps,  .NET, Software Development and CI/CD <br>
 
 
 # 💻 Tech Stack:
